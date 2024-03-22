@@ -1,0 +1,5 @@
+langchain
+openai
+streamlit
+huggingface_hub
+langchain_community
